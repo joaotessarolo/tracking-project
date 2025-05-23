@@ -36,7 +36,7 @@ export function UserNav() {
           <DropdownMenuLabel className="font-normal">
             <div className="flex flex-col space-y-1">
               <p className="text-sm font-medium leading-none">Admin</p>
-              <p className="text-xs leading-none text-muted-foreground">admin@rastrea.truck</p>
+              <p className="text-xs leading-none text-muted-foreground">admin@admin.com</p>
             </div>
           </DropdownMenuLabel>
           <DropdownMenuSeparator />
